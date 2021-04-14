@@ -1,5 +1,7 @@
 analysis/README.md
 data
 literature
+venv
 .DS_Store
 .ipynb_checkpoints
+.vscode
